@@ -1,4 +1,5 @@
 Root Owner CarlosBellange@hotmail.com
-CC BY: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.
+CC BY: This license allows reusers to distribute, 
+The license allows for commercial use but if profits are made, a license fee must be paid to the root owner.
 CC BY includes the following elements:
-BY  – Credit must be given to the creator
+BY  – payment license fee must be given to the Root owner. 
